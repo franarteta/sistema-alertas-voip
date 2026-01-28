@@ -1,0 +1,16 @@
+# --- Archivos de Configuración Privados ---
+config.py
+
+# --- Bases de Datos y Logs ---
+*.db
+*.log
+registro_llamadas.db
+
+# --- Archivos Personales ---
+agenda.csv
+*.rar
+*.zip
+
+# --- Basura de Python (No sirve subir esto) ---
+__pycache__/
+*.pyc
