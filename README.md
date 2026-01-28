@@ -41,3 +41,10 @@ Básicamente levanta un socket UDP en el puerto 514 (Syslog) y "escucha" los men
 
 ### Nota
 El código está armado para mi configuración de red, pero modificando el `config.py` debería andar en cualquier setup que tire logs SIP por UDP.
+
+Ejemplos de como se veria en la consola y en la pantalla de Windows:
+<img width="2816" height="1536" alt="alert VoIP Console2" src="https://github.com/user-attachments/assets/2cc8a18d-8c46-4d38-b9f0-da07fb0b46a3" />
+<img width="2816" height="1536" alt="notificacion alerta VoIP" src="https://github.com/user-attachments/assets/9ada1a01-0744-45b8-b022-51d6d0d0fc87" />
+
+
+
